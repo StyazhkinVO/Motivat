@@ -34,7 +34,6 @@ a{
 .container_logo-list{
     background-color: #FFF;
     box-shadow: 0 0 10px rgba(240,80,96,.5);
-    box-decoration-break: clone;
     border-color: #F15060;
     border-style: solid; /* Стиль границы */
     padding: 20px; /* Поля вокруг текста */
@@ -73,6 +72,7 @@ body{
 .date_oneline{
     display: flex;
     justify-content: flex-end;
+    margin-right: 30px;
     font-size: 30px;
 }
 
