@@ -285,3 +285,12 @@ body{
 .svg{
     font-size: 30px;
 }
+
+.fa-solid{
+    display: flex;
+    justify-content:baseline
+}
+
+.dynamic_line{
+    font-size: 40px;
+}
